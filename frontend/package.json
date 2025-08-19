@@ -1,0 +1,12 @@
+{
+  "name": "quote-frontend",
+  "version": "1.0.0",
+  "description": "Frontend for quote application",
+  "main": "script.js",
+  "scripts": {
+    "start": "serve -p 3000 public"
+  },
+  "dependencies": {
+    "serve": "^14.2.0"
+  }
+} 
