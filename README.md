@@ -3,6 +3,9 @@
 Dockerized three-tier web application for managing inspirational quotes with a MySQL database, Node.js backend, and modern frontend.
 
 
+![Quote App Screenshot](https://raw.githubusercontent.com/sarmadali77771/nodejs-quote-app-3tier/refs/heads/main/Inspirational-Quotes.png)
+
+
 ## 🏗️ Architecture Overview
 
 This application demonstrates a classic 3-tier architecture pattern:
@@ -177,6 +180,7 @@ SELECT * FROM quotes;
 **Sarmad Ali**
 - GitHub: (https://github.com/sarmadali77771/)
 - License: MIT License
+
 
 
 
